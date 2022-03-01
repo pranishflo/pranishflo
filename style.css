@@ -1,0 +1,26 @@
+/* #mylink:link{
+    color:blue;
+
+}
+#mylink:visited{
+    color:red;
+
+} */
+
+/* this selects all img from the source
+img[src^="../img/"]{
+
+} */
+
+.myimg{
+    border: 10px solid darkkhaki;
+    width:400px;
+    height:400px;
+    object-fit:cover;
+    border-radius:100%;
+  }
+  
+  
+  /* attribute selectors */
+
+ 
