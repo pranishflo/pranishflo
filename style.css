@@ -20,7 +20,7 @@ img[src^="../img/"]{
     border-radius:100%;
   }
   
-  
-  /* attribute selectors */
-
+.title{
+    background:linear-gradient(to right,rgb(81, 163, 184),rgba(81, 163, 184,0);
+        }
  
