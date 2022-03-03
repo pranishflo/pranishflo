@@ -1,26 +1,30 @@
-/* #mylink:link{
-    color:blue;
-
+body{
+    background: url("../pexels-johannes-plenio-2058946.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 1500px,120px;
 }
-#mylink:visited{
-    color:red;
 
-} */
 
-/* this selects all img from the source
-img[src^="../img/"]{
-
-} */
+p.solid {border-style: solid;}
 
 .myimg{
     border: 10px solid darkkhaki;
-    width:400px;
-    height:400px;
+    width:300px;
+    height:300px;
     object-fit:cover;
     border-radius:100%;
   }
   
-.title{
-    background:linear-gradient(to right,rgb(81, 163, 184),rgba(81, 163, 184,0);
-        }
+
+#title { 
+    background: linear-gradient(to bottom,rgb(43, 155, 184),rgba(81, 163, 184,0))
+}
+h2[class~=headline]{
+    background: radial-gradient(rgb(243, 184, 116),rgb(79, 79, 112))
+}
  
+.element{
+    background-color: rgba(113, 219, 238, 0.432);
+    background-repeat: no-repeat;
+    width: 800px;
+}
