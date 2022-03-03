@@ -17,10 +17,10 @@ p.solid {border-style: solid;}
   
 
 #title { 
-    background: linear-gradient(to bottom,rgb(43, 155, 184),rgba(81, 163, 184,0))
+    background: linear-gradient(to bottom,rgb(43, 155, 184),rgba(81, 163, 184,0));
 }
 h2[class~=headline]{
-    background: radial-gradient(rgb(243, 184, 116),rgb(79, 79, 112))
+    background: radial-gradient(rgb(243, 184, 116),rgb(79, 79, 112));
 }
  
 .element{
